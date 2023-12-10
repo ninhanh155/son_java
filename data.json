@@ -1,0 +1,26 @@
+[
+    {
+        "Điểm": 9.5,
+        "NhómMáu": "B",
+        "NgàyNhậpTrường": "Dec 20, 2000, 12:00:00 AM",
+        "Tên": "Xuka",
+        "Năm": 1996,
+        "Giới": false
+    },
+    {
+        "Điểm": 8.5,
+        "NhómMáu": "A",
+        "NgàyNhậpTrường": "Dec 23, 2000, 12:00:00 AM",
+        "Tên": "Nobita",
+        "Năm": 1995,
+        "Giới": true
+    },
+    {
+        "Điểm": 7.3,
+        "NhómMáu": "A",
+        "NgàyNhậpTrường": "Nov 19, 2001, 12:00:00 AM",
+        "Tên": "Chaien",
+        "Năm": 1998,
+        "Giới": true
+    }
+]

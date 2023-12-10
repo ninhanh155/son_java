@@ -1,0 +1,225 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop>  & 'C:\Program Files\Java\jdk-20\bin\jav
+a.exe' '@C:\Users\Admin\AppData\Local\Temp\cp_7jhhjfhtzt33ucm9gn3oj2fi0.argfile' 't3h.k35dl.App'
+
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.11.30 11h54                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 0
+
+ Đang thoát...
+PS C:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop>  c:; cd 'c:\Users\Public\Code\Java\JavaMavenB
+uildTool\qlsvoop'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '@C:\Users\Admin\AppData\Local\Temp\c
+p_7jhhjfhtzt33ucm9gn3oj2fi0.argfile' 't3h.k35dl.App'
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 1
+
+ Nhập tên sinh viên: Nobita
+
+ Nhập năm sinh: 1995
+
+ Nhập điểm: 8.5
+
+ Nhập nhóm máu: A
+
+ Giới tính (true=Nam/false=Nữ): true
+
+ Ngày nhập trường (ví dụ: 23/12/1997): 23/12/2000
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 1
+
+ Nhập tên sinh viên: Xuka
+
+ Nhập năm sinh: 1996
+
+ Nhập điểm: 9.5
+
+ Nhập nhóm máu: B
+
+ Giới tính (true=Nam/false=Nữ): false
+
+ Ngày nhập trường (ví dụ: 23/12/1997): 20/12/2000
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 4
+
+  Sắp Xếp Danh Sách Giảm Dần Theo Điểm:
+ Bảng Dữ Liệu Sinh Viên:
++---------------------------------------------------------------------------------+
+| STT | TÊN SINH VIÊN | NĂM SINH | ĐIỂM | NHÓM MÁU | GIỚI TÍNH | Ngày Nhập Trường |
++---------------------------------------------------------------------------------+
+|   1 | Xuka          |     1996 | 9.50 |        B |        Nữ |       20/12/2000
++----------------------------------------------------------------------------------+
+|   2 | Nobita        |     1995 | 8.50 |        A |       Nam |       23/12/2000
++----------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 1
+
+ Nhập tên sinh viên: Chaien
+
+ Nhập năm sinh: 1998
+
+ Nhập điểm: 7.3
+
+ Nhập nhóm máu: A
+
+ Giới tính (true=Nam/false=Nữ): true
+
+ Ngày nhập trường (ví dụ: 23/12/1997): 19/11/2001
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 5
+
+ Nhóm máu B có 1 bạn.
+ Nhóm máu A có 2 bạn.
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 6
+
+ Điểm min: 7.30
+ Điểm max: 9.50
+ Điểm trung bình: 8.43
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 8
+
+ Nhập đường dẫn tệp file cần ghi dữ liệu: data.json
+
+ Đã ghi file JSON
+
+ Nhập đường dẫn tệp file cần đọc dữ liệu: data.json
+
+ Bảng Dữ Liệu Sinh Viên:
++---------------------------------------------------------------------------------+
+| STT | TÊN SINH VIÊN | NĂM SINH | ĐIỂM | NHÓM MÁU | GIỚI TÍNH | Ngày Nhập Trường |
++---------------------------------------------------------------------------------+
+ Lỗi tệp file hoặc mã hóa bộ kí tự UTF8: java.lang.ClassCastException: class com.google.gson.internal.
+LinkedTreeMap cannot be cast to class t3h.k35dl.SinhViên (com.google.gson.internal.LinkedTreeMap and t
+3h.k35dl.SinhViên are in unnamed module of loader 'app')
+        at t3h.k35dl.DsSinhViên.Bảng(DsSinhViên.java:190)
+        at t3h.k35dl.DsSinhViên.ĐọcFile(DsSinhViên.java:282)
+        at t3h.k35dl.DvSinhViên.MởDanhSáchTừFile(DvSinhViên.java:121)
+        at t3h.k35dl.App.main(App.java:58)
+
+ Đang thoát...
+PS C:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop>  c:; cd 'c:\Users\Public\Code\Java\JavaMavenB
+uildTool\qlsvoop'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '@C:\Users\Admin\AppData\Local\Temp\c
+p_7jhhjfhtzt33ucm9gn3oj2fi0.argfile' 't3h.k35dl.App'
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h15                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 9
+
+ Nhập đường dẫn tệp file cần đọc dữ liệu: data.json
+
+ Bảng Dữ Liệu Sinh Viên:
++---------------------------------------------------------------------------------+
+| STT | TÊN SINH VIÊN | NĂM SINH | ĐIỂM | NHÓM MÁU | GIỚI TÍNH | Ngày Nhập Trường |
++---------------------------------------------------------------------------------+
+ Lỗi tệp file hoặc mã hóa bộ kí tự UTF8: java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be c
+ast to class t3h.k35dl.SinhViên (com.google.gson.internal.LinkedTreeMap and t3h.k35dl.SinhViên are in unnamed module of loader
+'app')
+        at t3h.k35dl.DsSinhViên.Bảng(DsSinhViên.java:190)
+        at t3h.k35dl.DsSinhViên.ĐọcFile(DsSinhViên.java:282)
+        at t3h.k35dl.DvSinhViên.MởDanhSáchTừFile(DvSinhViên.java:121)
+        at t3h.k35dl.App.main(App.java:58)
+
+ Đang thoát...
+PS C:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop>  c:; cd 'c:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop'; & 'C:\
+Program Files\Java\jdk-20\bin\java.exe' '@C:\Users\Admin\AppData\Local\Temp\cp_7jhhjfhtzt33ucm9gn3oj2fi0.argfile' 't3h.k35dl.Ap
+p'
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h26                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 9
+
+ Nhập đường dẫn tệp file cần đọc dữ liệu: data.json
+
+ Bảng Dữ Liệu Sinh Viên:
++---------------------------------------------------------------------------------+
+| STT | TÊN SINH VIÊN | NĂM SINH | ĐIỂM | NHÓM MÁU | GIỚI TÍNH | Ngày Nhập Trường |
++---------------------------------------------------------------------------------+
+ Lỗi tệp file hoặc mã hóa bộ kí tự UTF8: java.lang.ClassCastException: class com.google.gson.internal.LinkedTreeMap cannot be c
+ast to class t3h.k35dl.SinhViên (com.google.gson.internal.LinkedTreeMap and t3h.k35dl.SinhViên are in unnamed module of loader
+'app')
+        at t3h.k35dl.DsSinhViên.Bảng(DsSinhViên.java:190)
+        at t3h.k35dl.DsSinhViên.ĐọcFile(DsSinhViên.java:282)
+        at t3h.k35dl.DvSinhViên.MởDanhSáchTừFile(DvSinhViên.java:121)
+        at t3h.k35dl.App.main(App.java:58)
+
+ Đang thoát...
+PS C:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop>  c:; cd 'c:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop'; & 'C:\
+Program Files\Java\jdk-20\bin\java.exe' '@C:\Users\Admin\AppData\Local\Temp\cp_7jhhjfhtzt33ucm9gn3oj2fi0.argfile' 't3h.k35dl.Ap
+p'
+
++-------------------------------------------------------------------------------+
+| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH SINH VIÊN. (c) 2023.12.04 15h26                |
++--------------------------------MENU-------------------------------------------+
+| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |
+| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |
++-------------------------------------------------------------------------------+
+ Chọn menu: 9
+
+ Nhập đường dẫn tệp file cần đọc dữ liệu: data.json
+
+ Bảng Dữ Liệu Sinh Viên:
++---------------------------------------------------------------------------------+
+| STT | TÊN SINH VIÊN | NĂM SINH | ĐIỂM | NHÓM MÁU | GIỚI TÍNH | Ngày Nhập Trường |
++---------------------------------------------------------------------------------+
+|   1 | Xuka          |     1996 | 9.50 |        B |        Nữ |       20/12/2000
++----------------------------------------------------------------------------------+
+|   2 | Nobita        |     1995 | 8.50 |        A |       Nam |       23/12/2000
++----------------------------------------------------------------------------------+
+|   3 | Chaien        |     1998 | 7.30 |        A |       Nam |       19/11/2001
++----------------------------------------------------------------------------------+
+ Đang thoát...
+PS C:\Users\Public\Code\Java\JavaMavenBuildTool\qlsvoop>

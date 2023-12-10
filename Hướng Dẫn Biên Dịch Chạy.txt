@@ -1,0 +1,18 @@
+1. Cài đặt Maven: GSON
+- Ctrl + Shift + P
+- Maven Add a Dependency
+- gõ từ khóa: gson
+- Chọn nhà cung cấp là Google
+
+2. Trong khung nhìn Maven
+- Nhấp chuột phải vào tên dự án
+- Rồi chọn Run Maven Commands: compile
+
+3. Chạy chương trình:
+- menu Run > Run Without Debugging
+- hoặc ấn Ctrl + F5
+
+Chú Ý: Đừng bấm nút play |> Run Code
+bởi vì nút này là của extension Run Code,
+nó chỉ chạy có 1 tệp Java mà thôi !
+Nên dễ gây lỗi.
