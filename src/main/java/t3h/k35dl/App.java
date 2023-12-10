@@ -10,12 +10,12 @@ public class App {
         DichVu dv = new DvThuốc(); // Chỉ định người thực hiện hợp đồng
 
         while (true) {
-            out.print("\n+-------------------------------------------------------------------------------+");
-            out.print("\n| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH THUỐC. (c) 2023.12.04 15h26                |");
-            out.print("\n+--------------------------------MENU-------------------------------------------+");
-            out.print("\n| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Min Max | 0. Thoát |");
-            out.print("\n| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                      |");
-            out.print("\n+-------------------------------------------------------------------------------+");
+            out.print("\n+--------------------------------------------------------------------------------+");
+            out.print("\n| CHƯƠNG TRÌNH QUẢN LÝ DANH SÁCH THUỐC.                                          |");
+            out.print("\n+--------------------------------MENU--------------------------------------------+");
+            out.print("\n| 1. Thêm | 2. Sửa | 3. Xoá | 4. Sắp Xếp | 5. Phân Loại | 6. Thống Kê | 0. Thoát |");
+            out.print("\n| 7. Tìm Kiếm | 8. Lưu File | 9. Mở File |                                       |");
+            out.print("\n+--------------------------------------------------------------------------------+");
 
             out.print("\n Chọn menu: ");
             var scan = new Scanner(System.in);
@@ -45,17 +45,20 @@ public class App {
                     break;
                 case 6:
                     // làm việc 6
-                    dv.MinMax();
+                    dv.ThốngKêThuốc();;
                     break;
                 case 7:
                     // làm việc 7
-                    dv.TìmKiếmThuốc();
+                    dv.TìmKiếm();
+                    break;
                 case 8:
                     // làm việc 8
                     dv.LưuDanhSáchVàoFile();
+                    break;
                 case 9:
                     // làm việc 9
                     dv.MởDanhSáchTừFile();
+                    break;
                 case 0:
                     out.print("\n Đang thoát...");
                     // Thread.sleep(3000);
